@@ -1,0 +1,4 @@
+git commit -a -m "Commit Message"
+git push (Change File To GitHub Server)
+**Git Pull From GitHub Server
+git pull
